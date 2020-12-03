@@ -1,0 +1,29 @@
+{
+  "private": false,
+  "name": "@zoo-js/colors",
+  "version": "0.0.1",
+  "scripts": {
+  },
+  "main": "color.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoo-js/zoo-color",
+    "branch": "main"
+  },
+  "author": "zoo-js",
+  "homepage": "https://github.com/zoo-js/zoo-color",
+  "keywords": [
+    "color"
+  ],
+  "files": [
+    "color.scss",
+    "README.md"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoo-js/zoo-color/issues"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  }
+}
