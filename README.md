@@ -1,6 +1,17 @@
-# zoo-color
+# @zoo-js/colors
 
-```less
+## Quick start
+```bash
+yarn add @zoo-js/colors
+```
+
+## Use
+```scss
+@import '~@zoo-js/colors/color.scss';
+```
+
+### Now
+```scss
 $theme-color: #26A699;
 $theme-shadow-color: #72c5bd;
 $theme-hover-color: #4ac5bb;
