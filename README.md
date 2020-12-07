@@ -1,5 +1,7 @@
 # @zoo-js/colors
 
+[![](https://img.shields.io/npm/v/@zoo-js/colors?style=flat-square)](https://www.npmjs.com/package/@zoo-js/colors)
+
 ## Quick start
 ```bash
 yarn add @zoo-js/colors
